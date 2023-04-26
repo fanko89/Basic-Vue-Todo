@@ -26,8 +26,8 @@ export default {
   data() {
     return {
       todos: [
-        { id: 1, text: 'Learn Vue.js', completed: false },
-        { id: 2, text: 'Build a todo app', completed: false }
+        { id: 1, text: 'first Item', completed: false },
+        { id: 2, text: 'Second Item', completed: false }
       ],
       newTodoText: '',
       editMode: null
