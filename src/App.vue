@@ -27,7 +27,8 @@ export default {
     return {
       todos: [
         { id: 1, text: 'first Item', completed: false },
-        { id: 2, text: 'Second Item', completed: false }
+        { id: 2, text: 'Second Item', completed: false },
+        { id: 3, text: 'third Item', completed: false }
       ],
       newTodoText: '',
       editMode: null
